@@ -84,7 +84,7 @@ function renderSummary() {
     "Paket: " + p.name,
     ...chosen.map(a => "Tambahan: " + a.name),
     "Total sekali bayar: " + rp(once) + (monthly ? " + perawatan " + rp(monthly) + " per bulan" : "")].join("\n");
-  $("#wa").href = "https://wa.me/" + WA_NUMBER + "?text=" + encodeURIComponent(msg);
+  $("#wa").href = "https://wa.me/628999587888?text=" + encodeURIComponent(msg);
 }
 
 document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => {
