@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Penawaran Jasa Website | MENUANG</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;800&family=Instrument+Sans:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <p class="brand">MENUANG</p>
+  <h1>Website untuk usaha Anda, siap tayang dalam 2 sampai 3 minggu.</h1>
+  <p class="lead">Pilih jenis usaha, pilih paket, tambahkan kebutuhan, lalu kirim penawarannya lewat WhatsApp.</p>
+</header>
+
+<main>
+  <section>
+    <h2>1. Jenis usaha</h2>
+    <div class="seg" role="radiogroup" aria-label="Jenis usaha">
+      <button type="button" role="radio" aria-checked="true" data-seg="umkm">UMKM</button>
+      <button type="button" role="radio" aria-checked="false" data-seg="hotel">Hotel dan penginapan</button>
+    </div>
+  </section>
+
+  <section>
+    <h2>2. Pilih paket</h2>
+    <div id="packages" class="packages"></div>
+  </section>
+
+  <section>
+    <h2>3. Tambahan</h2>
+    <div id="addons" class="addons"></div>
+  </section>
+
+  <section class="summary" aria-live="polite">
+    <h2>Ringkasan penawaran</h2>
+    <dl id="summary"></dl>
+    <div class="actions">
+      <a id="wa" class="btn primary" href="#" target="_blank" rel="noopener">Kirim lewat WhatsApp</a>
+      <button id="print" type="button" class="btn">Cetak atau simpan PDF</button>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>Harga di halaman ini adalah contoh dan dapat disesuaikan. Domain dan hosting mengikuti harga penyedia. Pembayaran online memakai layanan pihak ketiga berizin dan berada di luar paket. Kami tidak menjanjikan peringkat di mesin pencari atau kenaikan penjualan.</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
