@@ -64,6 +64,7 @@ menuang-capital/
 - **Surga:** Founder & CEO. Konsultan independen; berkecimpung di trading forex sejak 2010; fokus emas dan manajemen risiko.
 - *(Tambahkan anggota lain: nama, peran, area tanggung jawab.)*
 ### Agen AI
+
 | Agen | Tugas | Batasan |
 |---|---|---|
 | **Antigravity** | Bantu pengembangan kode dan dokumentasi | Semua perubahan lewat pull request, ditinjau manusia |
