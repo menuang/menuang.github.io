@@ -113,4 +113,5 @@ Seluruh isi repositori ini bersifat edukasi dan riset, **bukan** nasihat investa
 2. Ajukan pull request dengan deskripsi singkat dan sumber data.
 3. Setiap PR ditinjau minimal oleh satu manusia.
 4. Konten tidak boleh memuat janji keuntungan, ajakan menitipkan dana, atau tautan referral.
+
 © MENUANG. Menjadi wadah bagi ide, teknologi, dan peluang untuk tumbuh bersama.
