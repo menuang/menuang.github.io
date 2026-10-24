@@ -1,5 +1,5 @@
 // Ganti dengan nomor WhatsApp Anda, format internasional tanpa "+" (contoh: 6281234567890)
-const WA_NUMBER = "62XXXXXXXXXX";
+const WA_NUMBER = "628999587888";
 
 // Harga contoh dalam rupiah. Sesuaikan dengan biaya kerja dan pasar Anda.
 const PACKAGES = {
